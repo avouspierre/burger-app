@@ -1,5 +1,10 @@
-import React, { Component } from 'react';
-import {Route, Switch} from 'react-router-dom';
+import React, {
+  Component
+} from 'react';
+import {
+  Route,
+  Switch
+} from 'react-router-dom';
 import Layout from './hoc/Layout/Layout';
 import BurgerContainer from './Containers/BurgerContainer/BurgerContainer';
 import Checkout from './Containers/Checkout/Checkout';
